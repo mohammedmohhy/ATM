@@ -1,13 +1,12 @@
-# ATM
 ###This program is used to act as an ATM-system with a predefined database which is used to run the program
-#	for the first time. 
-#
+##	for the first time. 
+##
 ###When the GUI getting closed, it saves all the data changes in a USERs.txt file
-#	to avoid data changes getting lost.
-#
+##	to avoid data changes getting lost.
+##
 ###if you want to start the program with the basic data delete the USERs.txt file and run the program, 
-#	note that a sentence saying this is the first time to run the program will be printed in CMD.
-#
+##	note that a sentence saying this is the first time to run the program will be printed in CMD.
+##
 '''program describtion:
 	1-the system first asks the user to enter his ID.
 		*if the user entered a not registered ID the system will print a message 
